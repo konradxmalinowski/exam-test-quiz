@@ -1,3 +1,4 @@
+// test
 let randomQuestion, answersRandomQuestion, correctAnswers, questions, idxRandomNumber;
 
 async function getData() {
