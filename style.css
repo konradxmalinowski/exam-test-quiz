@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+:root {
+    --color1: #006A67;
+    --color2: rgb(201, 57, 32);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 19px;
+    font-family: "Lato", serif;
+}
+
+body {
+    background-color: #303238;
+    color: whitesmoke;
+    width: 100vw;
+    height: 100vh;
+    height: 100svh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    width: 500px;
+    height: auto;
+    min-height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    display: none;
+}
+
+#ui-question {
+    width: 100%;
+    min-height: 40%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #26282e;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#ui-answers {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.answer {
+    width: 100%;
+    background-color: #26282e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    line-height: 1.5;
+    border-radius: 10px;
+}
+
+.answer:hover {
+    background-color: rgb(0, 25, 138);
+}
+
+#question-number {
+    margin-bottom: 20px;
+}
+
+#generateButton {
+    padding: 14px 10px;
+    background-color: var(--color1);
+    color: whitesmoke;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+
+#generateButton:active {
+    box-shadow: 0 0 10px var(--color1);
+}
+
+@media only screen and (max-width: 550px) {
+    main {
+        width: 350px;
+    }
+}
