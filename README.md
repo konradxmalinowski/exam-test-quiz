@@ -2,7 +2,7 @@
 
 An engaging and interactive web-based quiz application designed to test your knowledge of **JavaScript**, **React**, and **jQuery** concepts. The quiz dynamically fetches questions from a JSON file and provides an intuitive user experience with automatic scoring.
 
-
+<br>
 
 ## Features
 
@@ -26,7 +26,7 @@ Includes questions in both **English** and **Polish** for broader accessibility.
 **Extensive Question Bank**  
 Covers a wide range of topics, including **JavaScript fundamentals**, **React**, and **jQuery**.
 
-
+<br>
 
 ## Technologies
 
@@ -36,7 +36,7 @@ Covers a wide range of topics, including **JavaScript fundamentals**, **React**,
 - **JSON**: For storing and retrieving quiz questions.  
 - **Google Fonts**: Includes the **Lato** font for modern and readable typography.
 
-
+<br>
 
 ## How to Run the Project Locally?
 
@@ -62,7 +62,7 @@ Covers a wide range of topics, including **JavaScript fundamentals**, **React**,
 
 4. The application will be available at: [http://localhost:8080](http://localhost:8080)
 
-
+<br>
 
 ## Project Structure
 
@@ -83,7 +83,14 @@ exam-test-quiz/
 - **`package.json`**: Specifies the project configuration.
 
 
+<br>
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/6ce99678-ff8a-4aec-b029-40b494edf517)
+
+
+<br>
+
 ## Contact
 
-For any inquiries or feedback:
- **Email**: [malinowski.konrad45@gmail.com](mailto:malinowski.konrad45@gmail.com)
+For any inquiries or feedback: [malinowski.konrad45@gmail.com](mailto:malinowski.konrad45@gmail.com)
