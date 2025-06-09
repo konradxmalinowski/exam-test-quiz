@@ -60,7 +60,7 @@ Covers a wide range of topics, including **JavaScript fundamentals**, **React**,
    ```
    Alternatively, open `index.html` directly in your browser. Note: Some features may require a server due to browser restrictions.
 
-The application will be available at: [http://localhost:8080](http://localhost:8080)
+4. The application will be available at: [http://localhost:8080](http://localhost:8080)
 
 
 
@@ -82,29 +82,6 @@ exam-test-quiz/
 - **`quiz-questions.json`**: Stores the question bank with fields for question text, answer options, and correct answers.  
 - **`package.json`**: Specifies the project configuration.
 
-
-
-## Contributing
-
-Contributions are welcome! Here's how you can help:  
-
-1. **Fork the Repository**  
-2. **Create a New Branch**  
-   ```bash
-   git checkout -b feature/your-feature
-   ```
-3. **Make Changes & Commit**  
-   ```bash
-   git commit -m "Add your feature description"
-   ```
-4. **Push Changes**  
-   ```bash
-   git push origin feature/your-feature
-   ```
-5. **Create a Pull Request**  
-   Open a pull request with a descriptive summary of your changes.
-
-Please ensure your code adheres to the existing style and includes appropriate tests.
 
 ## Contact
 
