@@ -1,9 +1,5 @@
 # JavaScript Quiz Application
 
-An engaging and interactive web-based quiz application designed to test your knowledge of **JavaScript**, **React**, and **jQuery** concepts. The quiz dynamically fetches questions from a JSON file and provides an intuitive user experience with automatic scoring.
-
-<br>
-
 ## Features
 
 **Dynamic Question Generation**  
